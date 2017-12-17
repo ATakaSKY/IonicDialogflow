@@ -5,4 +5,4 @@ A chatbot that utilizes the machine learning and intelligence from dialogflow an
 # Technologies Used
 Ionic 3 as frontend
 Nodejs as backend
-Dialogflow 
+Dialogflow by google    
