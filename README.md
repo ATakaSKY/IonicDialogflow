@@ -1,1 +1,8 @@
-### :point_right: This starter repo has moved to the [ionic-team/starters](https://github.com/ionic-team/starters/tree/master/ionic-angular/official/blank) repo! :point_left:
+# Ionic AI with dialogflow
+A chatbot that utilizes the machine learning and intelligence from dialogflow and tries to respond with relevant information. 
+
+
+# Technologies Used
+Ionic 3 as frontend
+Nodejs as backend
+Dialogflow 
